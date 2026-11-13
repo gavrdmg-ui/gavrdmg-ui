@@ -6,7 +6,7 @@
 - Написание автотестов на **Java**: UI — **Selenide**, API — **RestAssured**.
 - Настройка **CI/CD** для запуска автотестов: запуск в **Jenkins**, отчёты в **Allure**.
 
-##Стек и инструменты
+## Стек и инструменты
 
 ![Java](https://img.shields.io/badge/Java-Automation-orange)
 ![Selenide](https://img.shields.io/badge/Selenide-UI_Testing-green)
