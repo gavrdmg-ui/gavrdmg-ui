@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет.
 
-<!--
-**gavrdmg-ui/gavrdmg-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Я Manual QA Engineer** Cейчас активно развиваю навыки автоматизации на Java.
 
-Here are some ideas to get you started:
+## Навыки
+- Написание автотестов на **Java**: UI — **Selenide**, API — **RestAssured**.
+- Настройка **CI/CD** для запуска автотестов: запуск в **Jenkins**, отчёты в **Allure**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Стек и инструменты
+![Java](https://img.shields.io/badge/Java-Automation-orange)
+![Selenide](https://img.shields.io/badge/Selenide-UI_Testing-green)
+![RestAssured](https://img.shields.io/badge/RestAssured-API_Testing-blue)
+![Allure](https://img.shields.io/badge/Allure_Reports-TestOps-yellow)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red)
+![Manual QA](https://img.shields.io/badge/Manual_QA-5_years-lightgrey)
+
+## Дипломный проект:
+### UI - [Kitfort](https://kitfort.ru/)
+### API - [PetStore](https://petstore.swagger.io)
+### Mobile - [Wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
